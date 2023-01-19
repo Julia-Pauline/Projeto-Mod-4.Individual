@@ -12,4 +12,4 @@ Aluno (Cod_Aluno, Matricula, Nome, Endereco, Tel)
 Professor (Cod_Prof(PK), Nome, Sexo, Especialidade)
 --Responsaveis (Cod_Resp (PK), Cod_Aluno(FK), Nome,  CPF, Tel)
 
-![imagem modelo feito SQL](./Modelo-Conceitual-ProjetoIndividual.M4-Página-1.jpg)
+![imagem modelo feito SQL](./Modelo-Conceitual-M4.jpg)
