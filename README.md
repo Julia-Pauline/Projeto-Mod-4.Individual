@@ -2,7 +2,7 @@
 Projeto referente a Banco de dados.
 
 Missão dada é missão cumprida!
-
+ 
 Banco de dados composto por seis entidades, com seus respectivos atributos:
 *PK --> Primary key (chave primária)
 *FK --> Foreign key (chave estrangeira)
@@ -16,5 +16,7 @@ Professor (Cod_Prof(PK), Nome, Sexo, Especialidade)
 
 ![imagem modelo feito SQL](./Modelo-Conceitual-M4.jpg)
 ![imagem modelo feito SQL](./Modelo-Lógico-M4-Página-2.jpg)
+
+Como visto nas imagens acima, todos estão relacionados entre entidades.
 
 
